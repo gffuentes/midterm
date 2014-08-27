@@ -7,7 +7,7 @@ This app allows you to type in a [Yahoo! WoeId](https://developer.yahoo.com/geo/
 
 ###Disclaimer/To Fix
 
-My original intention was to be able to search by zipcode. Unfortunately, the Yahoo! API source that would help me do that (plug in WOEID, get Zip) is broken. I reached out to Yahoo! to no avail. Others have had the same issue oddly enough...
+My original intention was to be able to search by zipcode. Unfortunately, the Yahoo! API source that would help me do that (plug in ~WOEID~Zip, get ~Zip~WoeID) is broken. I reached out to Yahoo! to no avail. Others have had the same issue oddly enough...
 <br><br>
 Also, unfortunately not every WoeID works. If the one you are trying causes the app to ask you to try a different one, please try a different one rather than just trying the same one again. Also, Twitter only supports 15 API calls through this source ever 3 minutes (? 1 minute maybe ?) so be aware of that as well.
 
